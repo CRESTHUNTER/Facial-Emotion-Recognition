@@ -1,18 +1,3 @@
-'''
-This script creates 3-channel gray images from FER 2013 dataset.
-
-It has been done so that the CNNs designed for RGB images can 
-be used without modifying the input shape. 
-
-This script requires two command line parameters:
-1. The path to the CSV file
-2. The output directory
-
-It generates the images and saves them in three directories inside 
-the output directory - Training, PublicTest, and PrivateTest. 
-These are the three original splits in the dataset. 
-'''
-
 import os
 import csv
 import argparse
