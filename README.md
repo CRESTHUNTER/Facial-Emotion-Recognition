@@ -8,7 +8,7 @@ I used one from Kaggle
 https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 
 Step 2:
-Convert the mumerical data set into a set of images using csv_to_images.py
+Convert the numerical data set into a set of images using csv_to_images.py
 
 
 Step 3:
